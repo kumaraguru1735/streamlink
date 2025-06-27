@@ -35,6 +35,7 @@ Streamlink is built on top of a plugin system which allows support for new servi
 Most of the popular streaming services are supported, such as [Twitch](https://www.twitch.tv), [YouTube](https://www.youtube.com), and many more.
 
 A list of all plugins currently included can be found on the [plugins page][streamlink-plugins].
+Drm Plugin also added
 
 
 # 💡 Quickstart
